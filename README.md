@@ -7,5 +7,5 @@ return {
     "2820a220-c5fc-4410-97b4-ab89b81f9f76", -- MonkeyTaTay
     "59566388-7edf-4296-9b8a-b5481177ec43", -- mark
     "51168f43-9315-40ba-b193-a5e6915658d8",  -- Dino
-    "1ba54164-e017-49ac-8219-7d85adaac3e8" --Jared
+    "9192320d-6019-4f0b-a170-90f3ef0ef1e2" --Jared
 }

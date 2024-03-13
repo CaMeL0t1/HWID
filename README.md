@@ -8,5 +8,6 @@ return {
     "4501430a-0979-4673-bf6d-68b37a008e29", -- mark
     "51168f43-9315-40ba-b193-a5e6915658d8",  -- Dino
     "9192320d-6019-4f0b-a170-90f3ef0ef1e2", --Jared
-    "e5b7cc40-9a40-4bd7-8a5d-fa831b4509d3" --famis
+    "e5b7cc40-9a40-4bd7-8a5d-fa831b4509d3", --famis
+    "7f837e2d-b784-49b0-95b9-c9f7a81e7c3c"
 }

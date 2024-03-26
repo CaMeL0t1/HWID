@@ -11,5 +11,6 @@ return {
     "9980eb2b-0dd6-40de-99c5-642c9c63bb20", --famis
     "5414b5a9-3394-4328-b8a8-967c719d55ba", -- ez555
     "57360ed6-b53d-40c7-8d33-2ac97a3ee796", --emojikon
+    "513c4757-40ef-4444-a09a-be4ec784ccbe", --Devil
     "7f837e2d-b784-49b0-95b9-c9f7a81e7c3c"
 }

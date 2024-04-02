@@ -1,6 +1,6 @@
 return {
     "f4b60342-6ab4-4779-b8d0-6989928ac383", -- NongPeam
-    "5cf3a297-8639-48f6-9253-c0523322dc37", -- RipSam
+    "dc726d7f-12e7-4cbe-a252-fcf82245a861", -- RipSam
     "f8ff0be0-a174-4f49-b83c-9d6f2801850f", -- CaptianBoxTv
     "2bb2d209-2b75-480b-b7d0-b54496fc7626", -- CamelotOnTheTop
     "95cf61c2-06c7-4c43-a4d5-db0dcc7c68c7", -- ok81

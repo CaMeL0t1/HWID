@@ -12,5 +12,5 @@ return {
     "5414b5a9-3394-4328-b8a8-967c719d55ba", -- ez555
     "404f1ef4-f611-4318-a60b-a339b6f1a2a2", --emojikon
     "513c4757-40ef-4444-a09a-be4ec784ccbe", --Devil
-    "dc726d7f-12e7-4cbe-a252-fcf82245a861"
+    "cbca5a84-661d-41a8-b187-1888a07be2ef" --jus
 }

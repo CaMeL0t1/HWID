@@ -13,6 +13,6 @@ return {
     "404f1ef4-f611-4318-a60b-a339b6f1a2a2", --emojikon
     "513c4757-40ef-4444-a09a-be4ec784ccbe", --Devil
     "d3dcf853-2e30-477f-b596-4cbbe999f51c", --jus
-    "c74b373f-8237-476a-a8c5-ae1373c9ec0d", --Romeo
+    "db7c1992-739a-4cc3-a733-4f28d9c6e26a", --Romeo
     "13e8e329-9f6a-4d18-8cfd-ec6676d3b8bd"
 }

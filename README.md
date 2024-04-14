@@ -14,5 +14,6 @@ return {
     "513c4757-40ef-4444-a09a-be4ec784ccbe", --Devil
     "d3dcf853-2e30-477f-b596-4cbbe999f51c", --jus
     "db7c1992-739a-4cc3-a733-4f28d9c6e26a", --Romeo
-    "13e8e329-9f6a-4d18-8cfd-ec6676d3b8bd"
+    "13e8e329-9f6a-4d18-8cfd-ec6676d3b8bd",
+    "a59caa00-1fc1-4c72-9392-2ac83777615e" --Obito
 }

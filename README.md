@@ -16,5 +16,6 @@ return {
     "db7c1992-739a-4cc3-a733-4f28d9c6e26a", --Romeo
     "13e8e329-9f6a-4d18-8cfd-ec6676d3b8bd", 
     "a59caa00-1fc1-4c72-9392-2ac83777615e", --Obito
-    "0969b77b-e6e3-4c70-b5d6-7450072817af" --eattttrq
+    "0969b77b-e6e3-4c70-b5d6-7450072817af", --eattttrq
+    "7d4e9578-42e2-46c7-9d24-146c641e727a" --Pepo
 }

@@ -17,6 +17,6 @@ return {
     "13e8e329-9f6a-4d18-8cfd-ec6676d3b8bd", 
     "a59caa00-1fc1-4c72-9392-2ac83777615e", --Obito
     "0969b77b-e6e3-4c70-b5d6-7450072817af", --eattttrq
-    "7d4e9578-42e2-46c7-9d24-146c641e727a", --Pepo
+    "d4bc8e0b-79e8-4d48-be31-bed0cd3ad09d", --Pepo
     "E78B79E7-AF88-444A-AEAD-CF0E58C8E244" --gangsombood
 }

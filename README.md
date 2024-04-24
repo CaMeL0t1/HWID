@@ -16,7 +16,7 @@ return {
     "6f97fc9c-e38e-499a-8676-5202fd419ba0", --Romeo
     "13e8e329-9f6a-4d18-8cfd-ec6676d3b8bd", 
     "a59caa00-1fc1-4c72-9392-2ac83777615e", --Obito
-    "0969b77b-e6e3-4c70-b5d6-7450072817af", --eattttrq
+    "db3d43ab-8173-44d1-8fd1-0174d6349b0b", --eattttrq
     "d4bc8e0b-79e8-4d48-be31-bed0cd3ad09d", --Pepo
     "E78B79E7-AF88-444A-AEAD-CF0E58C8E244" --gangsombood
 }

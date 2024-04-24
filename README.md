@@ -10,7 +10,7 @@ return {
     "9192320d-6019-4f0b-a170-90f3ef0ef1e2", --Jared
     "0d39cfd8-883e-4892-8062-0af80a346210", --famis
     "5414b5a9-3394-4328-b8a8-967c719d55ba", -- ez555
-    "7f1876b4-531d-4f0e-a31b-5f5ea2b378e3", --emojikon
+    "83ea5c7d-a4a9-44e4-901b-29bf51cc5128", --emojikon
     "513c4757-40ef-4444-a09a-be4ec784ccbe", --Devil
     "d3dcf853-2e30-477f-b596-4cbbe999f51c", --jus
     "6f97fc9c-e38e-499a-8676-5202fd419ba0", --Romeo
